@@ -93,5 +93,5 @@ FB Page Plugin is only for Pages and **not** for Profiles, Events and Groups.
 
 == Changelog ==
 
-= 1.1 =
+= 1.0.0 =
 Very first release
