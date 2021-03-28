@@ -5,7 +5,7 @@
 /*
 Plugin Name: Fan Page
 Plugin URI: https://delower.me/fan-page/
-Description: FB Page on Wordpress Widget & Pages.
+Description: Fan Page helps you easily embed and promote any public facebook page on your wordpres widget, post or even in a page.
 Version:1.0.0
 Author: Delower
 Author URI: https://delower.me
