@@ -1,9 +1,9 @@
 === Fan Page ===
 Contributors: delower186
-Tags: social, fan page, like page, like box, likebox, page plugin, widget, shortcode, responsive, template tag, sidebar, fb page plugin
+Tags: facebook, facebook page, facebook fan page, fb page, fb fan page, fb, social, social page, social fan page
 Requires at least: 5.2 or higher
 Tested up to: 5.7
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 6.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,6 +27,7 @@ You can easily integrate Like Page using WordPress Widgets and Shortcodes. Visit
 == Other Plugins ==
 
 * [WP To Do](https://wordpress.org/plugins/wp-todo/ "See plugin demo") - Responsive WordPress To Do List
+* [Embed Twitter Timeline](https://wordpress.org/plugins/embed-twitter-timeline/ "See plugin demo") - Embed Twitter Timeline helps you easily embed and promote Twitter Profile or twitter timeline
 
 
 == Installation ==
@@ -92,3 +93,6 @@ Fan Page Plugin is only for Pages and **not** for Profiles, Events and Groups.
 
 = 1.0.0 =
 Very first release
+
+= 1.0.1 =
+readme.txt updated
